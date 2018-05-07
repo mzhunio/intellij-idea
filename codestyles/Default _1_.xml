@@ -16,6 +16,7 @@
     <option name="SPACE_WITHIN_BRACES" value="true" />
     <option name="SPACE_AROUND_EQ_IN_NAMED_PARAMETER" value="true" />
     <option name="SPACE_AROUND_EQ_IN_KEYWORD_ARGUMENT" value="true" />
+    <option name="BLANK_LINES_AROUND_TOP_LEVEL_CLASSES_FUNCTIONS" value="1" />
   </Python>
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="76" />
