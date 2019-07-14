@@ -9,7 +9,7 @@
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
-  <component name="LiveEditOptions" useJBChromeExtension="true">
+  <component name="LiveEditOptions" chromeAutoDelay="100" useJBChromeExtension="true">
     <option name="elementHighlighting" value="true" />
   </component>
 </application>
