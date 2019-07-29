@@ -4,13 +4,13 @@
     <property name="created">2019-07-28T22:49:28</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-07-29T00:48:20</property>
+    <property name="modified">2019-07-29T09:10:48</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
+  <option name="LINE_SPACING" value="1.1" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
@@ -24,6 +24,7 @@
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="91b859" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -172,9 +173,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -1022,15 +1020,11 @@
         <option name="FOREGROUND" value="61aeef" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_KEYWORD">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -1041,7 +1035,6 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JS.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -1062,7 +1055,7 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="KOTLIN_ANNOTATION">
       <value>
         <option name="FOREGROUND" value="c679dd" />
