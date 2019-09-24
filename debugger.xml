@@ -78,21 +78,12 @@
     </filter>
   </component>
   <component name="XDebuggerSettings">
-    <data-views>
-      <option name="valueLookupDelay" value="150" />
-    </data-views>
+    <data-views />
     <general />
     <debuggers>
-      <debugger id="dotnet_debugger">
+      <debugger id="kotlin_debugger">
         <configuration>
-          <option name="remappedSourceLocationsMap">
-            <map />
-          </option>
-        </configuration>
-      </debugger>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
+          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
         </configuration>
       </debugger>
     </debuggers>
