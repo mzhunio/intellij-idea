@@ -4,7 +4,7 @@
     <property name="created">2019-07-28T22:49:28</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-10-06T21:31:29</property>
+    <property name="modified">2019-10-06T21:36:53</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -409,7 +409,7 @@
     <option name="Class" baseAttributes="" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="e5c17c" />
+        <option name="FOREGROUND" value="546e7a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2447,7 +2447,7 @@
     </option>
     <option name="ReSharper.ASP_NET_RAZOR_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="59626f" />
+        <option name="FOREGROUND" value="d19a66" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
