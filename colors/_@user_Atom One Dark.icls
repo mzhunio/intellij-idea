@@ -4,13 +4,13 @@
     <property name="created">2019-07-28T22:49:28</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-09-18T14:51:56</property>
+    <property name="modified">2019-10-19T17:13:39</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
+  <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
@@ -18,13 +18,12 @@
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="10" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="10" />
   </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="91b859" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -410,7 +409,7 @@
     <option name="Class" baseAttributes="" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="e5c17c" />
+        <option name="FOREGROUND" value="546e7a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -489,11 +488,6 @@
         <option name="FOREGROUND" value="61aeef" />
       </value>
     </option>
-    <option name="DEFAULT_FUNCTION_DECLARATION">
-      <value>
-        <option name="FOREGROUND" value="61aeef" />
-      </value>
-    </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -565,7 +559,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="abb2bf" />
+        <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -1019,7 +1013,7 @@
     </option>
     <option name="JS.CONSOLE">
       <value>
-        <option name="FOREGROUND" value="e5c17c" />
+        <option name="FOREGROUND" value="e06c75" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1033,9 +1027,25 @@
         <option name="FOREGROUND" value="61aeef" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="e06c75" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="e06c75" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="e06c75" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
     <option name="JS.MODULE_KEYWORD">
@@ -2448,7 +2458,7 @@
     </option>
     <option name="ReSharper.ASP_NET_RAZOR_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="e5c17c" />
+        <option name="FOREGROUND" value="d19a66" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
