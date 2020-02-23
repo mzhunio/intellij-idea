@@ -82,10 +82,4 @@
       <NestingRule child-file-suffix=".designer.vb" parent-file-suffix=".xsd" />
     </nesting-rules>
   </component>
-  <component name="UISettings">
-    <option name="MAX_LOOKUP_WIDTH2" value="1000" />
-    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="PRESENTATION_MODE_FONT_SIZE" value="16" />
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
-  </component>
 </application>
