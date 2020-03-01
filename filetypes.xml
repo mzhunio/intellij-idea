@@ -1,0 +1,42 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping ext="config" approved="true" type="Erlang Terms" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping ext="mdj" type="Native" />
+      <mapping ext="vpp" type="Native" />
+      <mapping pattern="tenant-service" type="PLAIN_TEXT" />
+      <mapping pattern="views" type="PLAIN_TEXT" />
+      <mapping pattern="stores" type="PLAIN_TEXT" />
+      <mapping pattern="controllers" type="PLAIN_TEXT" />
+      <mapping pattern=".igignore" type="PLAIN_TEXT" />
+      <mapping pattern="QRCode" type="PLAIN_TEXT" />
+      <mapping pattern="component" type="PLAIN_TEXT" />
+      <mapping pattern="models" type="PLAIN_TEXT" />
+      <mapping ext="appcache" type="PLAIN_TEXT" />
+      <mapping ext="e" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="Shell Script" />
+      <mapping pattern="dashboard-sql" type="TypeScript" />
+      <mapping ext="config" type="YAML" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="config" approved="true" type="Erlang Terms" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="Dispatcher" type="CLASS" />
+      <mapping pattern="JobScheduler" type="JAVA" />
+    </extensionMap>
+  </component>
+</application>
