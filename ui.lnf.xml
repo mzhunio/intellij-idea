@@ -82,4 +82,7 @@
       <NestingRule child-file-suffix=".designer.vb" parent-file-suffix=".xsd" />
     </nesting-rules>
   </component>
+  <component name="UISettings">
+    <option name="MAX_LOOKUP_WIDTH2" value="1000" />
+  </component>
 </application>
