@@ -23,6 +23,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="Shell Script" />
+      <mapping pattern=".env-prod" type="Shell Script" />
       <mapping pattern=".debug.env" type="Shell Script" />
       <mapping pattern=".prod.env" type="Shell Script" />
       <mapping ext="env" type="Shell Script" />
