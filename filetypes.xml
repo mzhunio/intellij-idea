@@ -11,6 +11,7 @@
       <mapping pattern="migration-script" type="PLAIN_TEXT" />
       <mapping pattern=".igignore" type="PLAIN_TEXT" />
       <mapping pattern="QRCode" type="PLAIN_TEXT" />
+      <mapping pattern="sadasdsa" type="PLAIN_TEXT" />
       <mapping pattern="stores" type="PLAIN_TEXT" />
       <mapping pattern="controllers" type="PLAIN_TEXT" />
       <mapping pattern="tenant-service" type="PLAIN_TEXT" />
