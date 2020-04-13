@@ -4,9 +4,11 @@
       <removed_mapping ext="config" approved="true" type="Erlang Terms" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="migrate" type="JavaScript" />
       <mapping ext="mdj" type="Native" />
       <mapping ext="vpp" type="Native" />
       <mapping pattern="component" type="PLAIN_TEXT" />
+      <mapping pattern="migration-script" type="PLAIN_TEXT" />
       <mapping pattern=".igignore" type="PLAIN_TEXT" />
       <mapping pattern="QRCode" type="PLAIN_TEXT" />
       <mapping pattern="stores" type="PLAIN_TEXT" />
