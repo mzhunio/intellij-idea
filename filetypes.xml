@@ -21,8 +21,8 @@
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="e" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="Shell Script" />
       <mapping pattern="dashboard-sql" type="TypeScript" />
       <mapping ext="config" type="YAML" />
