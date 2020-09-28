@@ -14,6 +14,7 @@
       <mapping pattern="QRCode" type="PLAIN_TEXT" />
       <mapping pattern="controllers" type="PLAIN_TEXT" />
       <mapping pattern="music" type="PLAIN_TEXT" />
+      <mapping pattern="Q1" type="PLAIN_TEXT" />
       <mapping pattern="tenant-service" type="PLAIN_TEXT" />
       <mapping pattern="views" type="PLAIN_TEXT" />
       <mapping pattern="models" type="PLAIN_TEXT" />
