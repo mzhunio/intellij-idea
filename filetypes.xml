@@ -19,6 +19,7 @@
       <mapping pattern="tenant-service" type="PLAIN_TEXT" />
       <mapping pattern="views" type="PLAIN_TEXT" />
       <mapping pattern="models" type="PLAIN_TEXT" />
+      <mapping ext="cvs" type="PLAIN_TEXT" />
       <mapping ext="appcache" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="e" type="PLAIN_TEXT" />
