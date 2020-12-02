@@ -8,9 +8,11 @@
       <mapping ext="mdj" type="Native" />
       <mapping pattern="component" type="PLAIN_TEXT" />
       <mapping pattern="migration-script" type="PLAIN_TEXT" />
+      <mapping pattern="BasicOfMEthods" type="PLAIN_TEXT" />
       <mapping pattern=".igignore" type="PLAIN_TEXT" />
       <mapping pattern="stores" type="PLAIN_TEXT" />
       <mapping pattern="music.csv" type="PLAIN_TEXT" />
+      <mapping pattern="BasicOfMEthods.txt" type="PLAIN_TEXT" />
       <mapping pattern="Question3.txt" type="PLAIN_TEXT" />
       <mapping pattern="QRCode" type="PLAIN_TEXT" />
       <mapping pattern="controllers" type="PLAIN_TEXT" />
