@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="Assignment3" type="AUTO_DETECTED" />
       <mapping pattern="Dispatcher" type="CLASS" />
       <mapping pattern="JobScheduler" type="JAVA" />
       <mapping pattern="migrate" type="JavaScript" />
